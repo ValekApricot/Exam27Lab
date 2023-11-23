@@ -35,21 +35,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18SalonSotovoiSvaziWindow",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20PageMagazinOrtotegi", "20PageMagazinOrtotegi\20PageMagazinOrtotegi.csproj", "{711E7416-EDD6-45B6-AC4D-701053870908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class10", "Class10\Class10.csproj", "{D63407B9-6821-405E-83F2-F0C7AABBF0D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class10Bibliotek", "Class10\Class10Bibliotek.csproj", "{D63407B9-6821-405E-83F2-F0C7AABBF0D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class14", "Class14\Class14.csproj", "{3EF7F8C6-B9CA-4229-AD83-39CA2FDD27C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class14MagazinBitTexnik", "Class14\Class14MagazinBitTexnik.csproj", "{3EF7F8C6-B9CA-4229-AD83-39CA2FDD27C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class15", "Class15\Class15.csproj", "{7232BC23-48A3-483E-B269-CA074D18FEF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class15UvelirniSalonу", "Class15\Class15UvelirniSalonу.csproj", "{7232BC23-48A3-483E-B269-CA074D18FEF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class9", "Class9\Class9.csproj", "{828A87C9-A6A2-4C97-9947-97D8FDDAF0B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class9TuristicheskoeAgenstvoo", "Class9\Class9TuristicheskoeAgenstvoo.csproj", "{828A87C9-A6A2-4C97-9947-97D8FDDAF0B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class24", "Class24\Class24.csproj", "{19BA9FAF-FF2D-4F64-A821-2E6F976AC411}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class24AvtoStoankaa", "Class24\Class24AvtoStoankaa.csproj", "{19BA9FAF-FF2D-4F64-A821-2E6F976AC411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class27", "Class27\Class27.csproj", "{0537C076-BBBA-4B46-8690-789A7E667503}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class27SistemKarsheringa", "Class27\Class27SistemKarsheringa.csproj", "{0537C076-BBBA-4B46-8690-789A7E667503}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22PageUchebnoiMedicUchresdenie", "22PageUchebnoiMedicUchresdenie\22PageUchebnoiMedicUchresdenie.csproj", "{1EEE44FB-1CFE-4951-8CEF-7F4C994AEF71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class19", "Class19\Class19.csproj", "{F3293E49-B919-49FA-BAD2-7447C3D19167}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class19FirmaOkazaniaUslugi", "Class19\Class19FirmaOkazaniaUslugi.csproj", "{F3293E49-B919-49FA-BAD2-7447C3D19167}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23PageReklamnoeAgentstvo", "23PageReklamnoeAgentstvo\23PageReklamnoeAgentstvo.csproj", "{EE939B23-D691-4828-84BD-A863A8312CC8}"
 EndProject
