@@ -1,0 +1,29 @@
+﻿<Page x:Class="_21PageOtdelCadrov.AddEmploeePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_21PageOtdelCadrov"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddEmploeePage">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="ФИО:"/>
+            <TextBox x:Name="EmploNameTextBox"/>
+            <TextBlock Text="Должность:"/>
+            <ComboBox x:Name="categoryComboBox">
+                <ComboBoxItem>Менеджер по персоналу</ComboBoxItem>
+                <ComboBoxItem>Специалист по кадарм</ComboBoxItem>
+                <ComboBoxItem>Спициалист по подбору персонала</ComboBoxItem>
+                <ComboBoxItem>Начальник отдела кадров</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Text="Заработная плата:"/>
+            <TextBox x:Name="priceTextBox"/>
+            <TextBlock Text="Номер телефона:"/>
+            <TextBox x:Name="NumberTextBox"/>
+            <Button Content="Добавить сотрудника" Click="Button_Click" />
+        </StackPanel>
+    </Grid>
+</Page>

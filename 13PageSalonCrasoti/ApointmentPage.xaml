@@ -1,0 +1,31 @@
+﻿<Page x:Class="_13PageSalonCrasoti.ApointmentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_13PageSalonCrasoti"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ApointmentPage">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="ФИО:"/>
+            <TextBox x:Name="clientNameTextBox"/>
+            <TextBlock Text="Дата записи:"/>
+            <DatePicker x:Name="appointmentDatePicker"/>
+            <TextBlock Text="Услуги:"/>
+            <ComboBox x:Name="serviceComboBox">
+                <ComboBoxItem>Маникюр</ComboBoxItem>
+                <ComboBoxItem>Пидикюр</ComboBoxItem>
+                <ComboBoxItem>Нращивание ресник</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Text="Стилист:"/>
+            <ComboBox x:Name="stylistComboBox">
+                <ComboBoxItem>Настя</ComboBoxItem>
+                <ComboBoxItem>Света</ComboBoxItem>
+                <ComboBoxItem>Вероника</ComboBoxItem>
+            </ComboBox>
+            <Button Content="Записать" Click="Button_Click" />
+        </StackPanel>
+    </Grid>
+</Page>
