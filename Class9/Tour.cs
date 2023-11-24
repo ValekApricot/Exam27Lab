@@ -13,7 +13,7 @@ namespace Class9
         public int Duration { get; set; }
         public decimal Price { get; set; }
 
-        public void AddNewTour(string destination, string type, int duration, decimal price)
+        public void AddNewTour(string destination, string type, int duration, decimal price) /*переменная*/
         {
             if (string.IsNullOrEmpty(destination))
             {

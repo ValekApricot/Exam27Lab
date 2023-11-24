@@ -13,7 +13,7 @@ namespace Class14
         public double Price { get; set; }
         public int StockQuantity { get; set; }
 
-        public void AddNewProduct(string name, string category, double price, int stockQuantity)
+        public void AddNewProduct(string name, string category, double price, int stockQuantity) /*переменная*/
         {
             if (string.IsNullOrEmpty(name))
             {

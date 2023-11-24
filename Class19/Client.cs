@@ -14,7 +14,7 @@ namespace Class19
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
 
-        public void AddClient() /*ввод персональных данных*/
+        public void AddClient() /*ввод персональных данных*/ /*переменная*/
         {
             Console.WriteLine("Введите Данные Клиента:");
 

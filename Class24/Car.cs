@@ -12,9 +12,9 @@ namespace Class24
         public string Model { get; set; }
         public int Year { get; set; }
 
-        public void AddCar() /*ввод данных автомобиля*/
+        public void AddCar() /*ввод данных автомобиля*/ /*переменная*/
         {
-            Console.WriteLine("Введите данные автомобиля:");
+            Console.WriteLine("Введите данные автомобиля:"); 
 
             Console.Write("Марка: ");
             Brand = Console.ReadLine();

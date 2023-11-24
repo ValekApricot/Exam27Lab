@@ -13,7 +13,7 @@ namespace Class10
         public string Genre { get; set; }
         public int Pages { get; set; }
 
-        public void AddNewBook(string title, string author, string genre, int pages)
+        public void AddNewBook(string title, string author, string genre, int pages) /*переменная*/
         {
             if (string.IsNullOrEmpty(title))
             {

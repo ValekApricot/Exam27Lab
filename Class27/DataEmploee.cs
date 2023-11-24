@@ -16,7 +16,7 @@ namespace Class27
         public string Model { get; set; }
         public int Year { get; set; }
 
-        public void AddEmploee() /*ввод персональных данных*/
+        public void AddEmploee() /*ввод персональных данных*/ /*переменная*/
         {
             Console.WriteLine("Введите ваши персональные данные:");
 

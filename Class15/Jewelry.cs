@@ -12,7 +12,7 @@ namespace Class15
         public string Material { get; set; }
         public double Price { get; set; }
 
-        public void AddNewJewelry(string name, string material, double price)
+        public void AddNewJewelry(string name, string material, double price) /*переменная*/
         {
             if (string.IsNullOrEmpty(name))
             {
