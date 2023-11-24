@@ -5,7 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_17UridicheskaiFirmaWindow"
         mc:Ignorable="d"
-        Title="Юридическая фирма" Height="450" Width="800">
+        Title="Юридическая фирма"
+        Height="450"
+        Width="800"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="ToolWindow"
+        ResizeMode="NoResize"
+        WindowState="Normal">
     <Grid>
 
         <Grid.Background>
